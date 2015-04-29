@@ -1,0 +1,1 @@
+Allows for temporary / permanent root using Sebastian Krahmer's RageAgainstTheCage method.
